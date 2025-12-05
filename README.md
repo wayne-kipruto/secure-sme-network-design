@@ -10,8 +10,8 @@ This project documents the design and simulation of a secure, segmented network 
 ## 🏗️ Network Topology
 > *Architecture Diagram showing the Hub-and-Spoke topology with VLAN segmentation.*
 
-![Network Topology](Rorizzi_Network_Topology.png)
-*(Note: Ensure you upload your 'Rorizzi_Network_Topology.png' file to this repo for this image to appear)*
+![Network Topology](Rorizzi Network Topology.png)
+
 
 ---
 
