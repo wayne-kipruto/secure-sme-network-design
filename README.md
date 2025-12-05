@@ -1,4 +1,4 @@
-#SME Secure Network Infrastructure Design 🛡️
+###SME Secure Network Infrastructure Design 🛡️
 
 ### Project Overview
 This project documents the design and simulation of a secure, segmented network infrastructure for **Rorizzi Digital Services**, a tech consultancy and cyber hub. The goal was to replace a flat network architecture with an enterprise-grade solution that isolates sensitive business operations from public guest traffic while ensuring high availability.
