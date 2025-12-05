@@ -71,4 +71,4 @@ Open the file Rorizzi_Network_Design.pkt.
 Use the simulation mode to observe packet flow between VLANs.
 
 👤 Author
-Wayne Kipruto Network Engineer | AWS | CCNA Certified | LinkedIn Profile [https://www.linkedin.com/in/wayne-kipruto-328068227/](https://www.linkedin.com/in/wayne-kipruto-328068227/)
+Wayne Kipruto Network Engineer | AWS | CCNA Certified | LinkedIn Profile [https://www.linkedin.com/in/wayne-kipruto-328068227/](https://www.linkedin.com/in/wayne-kipruto-328068227/) | Resume [[https://www.linkedin.com/in/wayne-kipruto-328068227/]([https://www.linkedin.com/in/wayne-kipruto-328068227/)]
