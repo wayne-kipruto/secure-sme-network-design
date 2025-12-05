@@ -57,3 +57,18 @@ Verification of sub-interface status and protocol up-time.
 ### 2. Connectivity Test (Ping Success)
 Successful ICMP echo reply validating routing between Client PC (VLAN 20) and Printer (VLAN 10).
 ![Network Connectivity](Rorizzi-Ping-Responses.png)
+
+### 3. How to Run
+Prerequisite: Install Cisco Packet Tracer.
+
+Clone this repository:
+
+Bash
+
+git clone [https://github.com/YOUR_USERNAME/secure-sme-network-design.git](https://github.com/YOUR_USERNAME/secure-sme-network-design.git)
+Open the file Rorizzi_Network_Design.pkt.
+
+Use the simulation mode to observe packet flow between VLANs.
+
+👤 Author
+Wayne Kipruto Network Engineer | AWS | CCNA Certified LinkedIn Profile [https://www.linkedin.com/in/wayne-kipruto-328068227/](https://www.linkedin.com/in/wayne-kipruto-328068227/)
