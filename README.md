@@ -48,3 +48,12 @@ DNS: 8.8.8.8
 
 ### 4.Wireless Security
 Deployed a Wireless Access Point (WAP) secured with WPA2-PSK (AES) encryption to protect guest traffic from interception.
+
+📸 Proof of Concept
+### 1. Router Configuration (CLI)
+Verification of sub-interface status and protocol up-time.
+![Router Sub-Interfaces](Rorizzi-Sub-Interfaces.png)
+
+### 2. Connectivity Test (Ping Success)
+Successful ICMP echo reply validating routing between Client PC (VLAN 20) and Printer (VLAN 10).
+![Network Connectivity](Rorizzi-Ping-Responses.png)
